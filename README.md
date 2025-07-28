@@ -1,3 +1,3 @@
 # LearningGit
 
-This changes will only be applied on local.
+This changes will only be applied on local PC.
